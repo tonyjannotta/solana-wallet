@@ -19,7 +19,7 @@ npm init -y
 npm install @solana/web3.js
 ```
 
-## Run it, yo
+## Run it!
 
 ```bash
 node create-wallet.js
@@ -60,4 +60,4 @@ const restoredKeypair = web3.Keypair.fromSecretKey(secretKeyFromFile);
 console.log("Restored Address:", restoredKeypair.publicKey.toBase58());
 ```
 
-# ENJOY!
+ENJOY!
