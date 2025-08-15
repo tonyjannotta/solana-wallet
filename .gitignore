@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# General
+*.log
+
+# and oh yeah
+solana-wallet.json
